@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Jag-Dt
+- 👀 I’m interested in coding.. learning to code tbh...
+- 🌱 I’m currently learning JavaScript and it's my first time doing something like this...
+- 📫 How to reach me: contact me at JagD3164@gmail.com ...
+
+<!---
+Jag-Dt/Jag-Dt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
